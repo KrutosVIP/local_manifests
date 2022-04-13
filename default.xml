@@ -20,7 +20,7 @@
 	<project path="device/samsung/sprd-common" name="gtel3g/android_device_samsung_sprd-common" remote="github" revision="cm-14.1"/>
 	<project path="device/samsung/scx30g-common" name="gtel3g/android_device_samsung_scx30g-common" remote="github" revision="lineage-14.1-gtel3g"/>
 	<project path="device/samsung/scx35-common" name="gtel3g/android_device_samsung_scx35-common" remote="github" revision="cm-14.1"/>
-	<project path="device/samsung/gtel3g" name="gtel3g/android_device_samsung_gtel3g" remote="github" revision="lineage-14.1-gtel3g"/>
+	<project path="device/samsung/gtel3g" name="KrutosVIP/android_device_samsung_gtel3g-custom" remote="github" revision="nitrogen"/>
 	<project path="hardware/sprd" name="gtel3g/android_hardware_sprd" remote="github" revision="cm-14.1"/>
 	<project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="github" revision="cm-14.1"/>
 	<project path="kernel/samsung/gtel3g" name="gtel3g/kernel_samsung_gtel3g" remote="github" revision="los-14.1"/>

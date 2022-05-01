@@ -4,14 +4,7 @@
     <remote name="kvip"
             fetch="https://github.com/KrutosVIP/" />
 
-    <remote name="los"
-            fetch="https://github.com/LineageOS/" />
-    
     <!-- Clone our device tree. -->
     <project name="twrp_device_samsung_gtel3g" path="device/samsung/gtel3g" remote="kvip" revision="pbrp-7.1" />
-    <!-- Clone nano and its dependencies -->
-    <project name="android_external_bash" path="external/bash" remote="los" revision="cm-12.1" />
-    <project name="android_external_nano" path="external/nano" remote="los" revision="cm-12.1" />
-    <project name="android_external_libncurses" path="external/libncurses" remote="los" revision="cm-12.1" />
 </manifest>
 
